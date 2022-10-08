@@ -16,6 +16,6 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         System.out.println("abc....");
-        System.out.println("dev分支提交操作....");
+        System.out.println("主干提交操作....");
     }
 }
