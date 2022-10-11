@@ -17,6 +17,7 @@ public class AppTest
     {
         System.out.println("abc....");
         System.out.println("master操作....");
-        System.out.println("C1程序员操作....");
+        System.out.println("C2操作....");
+
     }
 }
